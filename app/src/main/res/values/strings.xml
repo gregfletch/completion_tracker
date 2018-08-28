@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Completion Tracker</string>
+    <string name="completions">%1$d / %2$d</string>
+    <string name="completion_percentage">%s %%</string>
+    <string name="complete">Complete</string>
+    <string name="incomplete">Incomplete</string>
+</resources>
